@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting through the 4GeeksAcademy bootcamp!
 - 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy!
