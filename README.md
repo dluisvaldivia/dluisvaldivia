@@ -12,5 +12,5 @@
   - i travelled from the north to the south of Vietnam ![image](https://github.com/user-attachments/assets/796e2138-7078-4ba3-9cbb-268c9bb4f5ee)
 on a motor scooter!
   
- 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
