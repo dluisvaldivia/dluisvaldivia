@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on getting through the 4GeeksAcademy bootcamp!
-- 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy!
-- 👯 I’m looking to collaborate with anyone :smile:
-- 💬 Ask me about travel, gardening, music or anything really!
+<ul> 🔭 I’m currently working on getting through the 4GeeksAcademy bootcamp! </ul>
+<ul> 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy! </ul>
+<ul> 👯 I’m looking to collaborate with anyone :smile: </ul>
+<ul> 💬 Ask me about travel, gardening, music or anything really! </ul>
 <ul> 📫 How to reach me:<br>
 <ul>
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
