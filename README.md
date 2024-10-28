@@ -18,6 +18,6 @@ on a motor scooter!
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=light&perline=4" alt="My Skills"/><br>
     <img src="https://skillicons.dev/icons?i=js,react&theme=light&perline=4" alt="My Skills"/><br>
     <img src="https://skillicons.dev/icons?i=py&theme=light&perline=4" alt="My Skills"/><br>
-    <img src="https://skillicons.dev/icons?i=git,postman,firebase,ai,jest&theme=light&perline=5" alt="My Skills"/><br>
+    <img src="https://skillicons.dev/icons?i=git,postman,firebase,ai,jest,redhat&theme=light&perline=8" alt="My Skills"/><br>
   </a>
 </div>
