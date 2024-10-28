@@ -15,7 +15,7 @@ on a motor scooter!
 Contact me at 
 <div align="center">
   <a href="https://www.linkedin.com/in/dannyvaldivia/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" target="_blank"/>
   </a>
 </div>
 
