@@ -2,7 +2,7 @@
 
 <ul> 🔭 I’m currently working on getting through the 4GeeksAcademy bootcamp! </ul>
 <ul> 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy! </ul>
-<ul> 👯 I’m looking to collaborate with anyone :smile: </ul>
+<ul> 👯 Lets collaborate :smile: </ul>
 <ul> 💬 Ask me about travel, gardening, music or anything really! </ul>
 <ul>⚡ Fun fact: i travelled from the North to the South of Vietnam! (and the North of Thailand)</ul>
 
