@@ -5,7 +5,7 @@
 <ul> 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy! </ul>
 <ul> 👯 I’m looking to collaborate with anyone :smile: </ul>
 <ul> 💬 Ask me about travel, gardening, music or anything really! </ul>
-<ul> 📫 How to reach me:<br>
+<ul> 📫 How to reach me:
 <ul>
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
