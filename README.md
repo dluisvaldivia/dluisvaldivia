@@ -12,5 +12,10 @@
   - i travelled from the north to the south of Vietnam ![image](https://github.com/user-attachments/assets/796e2138-7078-4ba3-9cbb-268c9bb4f5ee)
 on a motor scooter!
   
+<p align="center">
+  <a href="#">
+    <img src="[BASE_URL]?i=html,css,bootstrap,js,react,py,git,postman,firebase" />
+  </a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,git,postman,firebase&theme=light&perline=4)](https://skillicons.dev)
