@@ -12,16 +12,15 @@
   </a>
 </ul>
     <ul>
-        <a href="https://www.linkedin.com/in/dannyvaldivia/">
+        <a href="https://www.instagram.com/danny.valdivia">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/>
   </a>
 </ul>
 </ul>
-  - [![image](https://github.com/user-attachments/assets/df0d8bde-14bc-4dc6-a6b2-fead013b41f1) Danny's Linkedin]()
-  - [![image](https://github.com/user-attachments/assets/f1a03700-f6c3-4764-93c7-af11b33fb0bc) Danny's Instagram](https://www.instagram.com/danny.valdivia)
-- ⚡ Fun fact:
+
+<ul>⚡ Fun fact:
   - i travelled from the north to the south of Vietnam ![image](https://github.com/user-attachments/assets/796e2138-7078-4ba3-9cbb-268c9bb4f5ee)
-on a motor scooter!
+on a motor scooter! </ul>
 
 <h2>Reach me at</h2>
 <div>
