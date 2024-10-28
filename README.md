@@ -15,10 +15,10 @@ on a motor scooter!
 Contact me at 
 <div align="center">
   <a href="https://www.linkedin.com/in/dannyvaldivia/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn"/>
   </a>
 </div>
- <img src=""/>
+
 <br>
 <h1 align="center">Skill Set</h1>
  <div align="center">
