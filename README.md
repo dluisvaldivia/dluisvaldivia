@@ -5,18 +5,14 @@
 <ul> 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy! </ul>
 <ul> 👯 I’m looking to collaborate with anyone :smile: </ul>
 <ul> 💬 Ask me about travel, gardening, music or anything really! </ul>
-<ul> 📫 How to reach me:
+
+<h4> 📫 Reach me at </h4>
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
 </a>
-</ul>
-<ul>
-        <a href="https://www.instagram.com/danny.valdivia">
+<a href="https://www.instagram.com/danny.valdivia">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/>
-  </a>
-</ul>
-
-
+</a>
 <ul>⚡ Fun fact:
 i travelled from the North to the South of Vietnam! (and the North of Thailand)</ul>
 
