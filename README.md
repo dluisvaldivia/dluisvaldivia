@@ -11,6 +11,9 @@
 - ⚡ Fun fact:
   - i travelled from the north to the south of Vietnam ![image](https://github.com/user-attachments/assets/796e2138-7078-4ba3-9cbb-268c9bb4f5ee)
 on a motor scooter!
+
+Contact me at 
+<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />
 <br>
 <h1 align="center">Skill Set</h1>
  <div align="center">
