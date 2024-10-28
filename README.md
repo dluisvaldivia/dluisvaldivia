@@ -14,7 +14,8 @@ on a motor scooter!
 
  <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,git,postman,firebase,ai,jest&theme=light&perline=4" alt="My Skills"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=light&perline=4" alt="My Skills"/><br>
+    <img src="https://skillicons.dev/icons?i=js,react&theme=light&perline=4" alt="My Skills"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,git,postman,firebase,ai,jest&theme=light&perline=4" alt="My Skills"/>
   </a>
 </div>
