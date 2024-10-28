@@ -6,12 +6,12 @@
 <ul> 👯 I’m looking to collaborate with anyone :smile: </ul>
 <ul> 💬 Ask me about travel, gardening, music or anything really! </ul>
 
-<h4> 📫 Reach me at </h4>
+<h3> 📫 Reach me at </h3>
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="20"/>
 </a>
 <a href="https://www.instagram.com/danny.valdivia">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="20"/>
 </a>
 <ul>⚡ Fun fact:
 i travelled from the North to the South of Vietnam! (and the North of Thailand)</ul>
