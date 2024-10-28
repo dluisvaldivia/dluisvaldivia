@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with anyone :smile:
 - 💬 Ask me about travel, gardening, music or anything really!
 - 📫 How to reach me:<br>
-<div>
+- <div>
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
   </a>
