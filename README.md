@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=6000&pause=1000&color=3FB927&background=427AFF00&repeat=false&width=435&lines=Hello%2C+fellow+human)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=5500&pause=1000&color=3FB927&background=427AFF00&repeat=false&width=435&lines=Hello%2C+fellow+human...)](https://git.io/typing-svg)
 
 <ul> 🔭 I’m currently working on getting through the 4GeeksAcademy bootcamp! </ul>
 <ul> 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy! </ul>
