@@ -9,10 +9,10 @@
 
 <h3> 📫 Reach me at </h3>
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="20"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
 </a>    
 <a href="https://www.instagram.com/danny.valdivia">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="20"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/>
 </a>
 
 <h1 align="center">Skill Set</h1>
