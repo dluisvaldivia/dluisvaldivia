@@ -11,11 +11,8 @@
 - ⚡ Fun fact:
   - i travelled from the north to the south of Vietnam ![image](https://github.com/user-attachments/assets/796e2138-7078-4ba3-9cbb-268c9bb4f5ee)
 on a motor scooter!
-  
-<p align="center">
-  <a href="#">
-   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,git,postman,firebase&theme=light&perline=4)](https://skillicons.dev)
+ <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,git,postman,firebase&theme=light&perline=4" alt="My Skills"/>
   </a>
-</p>
-
-
+</div>
