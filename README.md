@@ -13,5 +13,4 @@
 on a motor scooter!
   
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,git,postman,firebase
-&theme=light&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,git,postman,firebase&theme=light&perline=4)](https://skillicons.dev)
