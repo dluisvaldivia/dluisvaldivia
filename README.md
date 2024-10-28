@@ -19,17 +19,8 @@
 </ul>
 
 <ul>⚡ Fun fact:
-  - i travelled from the north to the south of Vietnam ![image](https://github.com/user-attachments/assets/796e2138-7078-4ba3-9cbb-268c9bb4f5ee)
-on a motor scooter! </ul>
+i travelled from the North to the South of Vietnam! (and the North of Thailand)</ul>
 
-<h2>Reach me at</h2>
-<div>
-  <a href="https://www.linkedin.com/in/dannyvaldivia/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn"/>
-  </a>
-</div>
-
-<br>
 <h1 align="center">Skill Set</h1>
  <div align="center">
   <a href="https://skillicons.dev">
