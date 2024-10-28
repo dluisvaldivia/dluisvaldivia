@@ -6,6 +6,9 @@
 - 👯 I’m looking to collaborate with anyone :smile:
 - 💬 Ask me about travel, gardening, music or anything really!
 - 📫 How to reach me:<br>
+<a href="https://www.linkedin.com/in/dannyvaldivia/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
+  </a>
   - [![image](https://github.com/user-attachments/assets/df0d8bde-14bc-4dc6-a6b2-fead013b41f1) Danny's Linkedin]()
   - [![image](https://github.com/user-attachments/assets/f1a03700-f6c3-4764-93c7-af11b33fb0bc) Danny's Instagram](https://www.instagram.com/danny.valdivia)
 - ⚡ Fun fact:
