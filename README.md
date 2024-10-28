@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=8000&pause=1000&color=4AD82E&background=427AFF00&center=true&repeat=false&width=435&lines=Hello%2C+human)](https://git.io/typing-svg)
 
 
 <ul> 🔭 I’m currently working on getting through the 4GeeksAcademy bootcamp! </ul>
