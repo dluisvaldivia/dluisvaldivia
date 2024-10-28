@@ -14,7 +14,7 @@ on a motor scooter!
   
 <p align="center">
   <a href="#">
-    <img src="[BASE_URL]?i=html,css,bootstrap,js,react,py,git,postman,firebase" />
+    <img src="[https://simpleskill.icons.workers.dev/svg]?i=html,css,bootstrap,js,react,py,git,postman,firebase" />
   </a>
 </p>
 
