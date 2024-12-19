@@ -7,14 +7,13 @@
 <ul>⚡ Fun fact: i travelled from the North to the South of Vietnam! (and the North of Thailand)</ul>
 
 <h3> 📫 Reach me at 
-
-<a href="https://www.instagram.com/danny.valdivia">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/>
-</a>
-or
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
 </a>   
+or
+<a href="https://www.instagram.com/danny.valdivia">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/>
+</a>
 </h3>
 <h1 align="center">Skill Set</h1>
  <div align="center">
