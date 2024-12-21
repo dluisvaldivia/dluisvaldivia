@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=5500&pause=1000&color=3FB927&background=427AFF00&repeat=false&width=435&lines=Hello%2C+fellow+human...)](https://git.io/typing-svg)
 
-<ul> 🔭 I’m currently working on getting through the 4GeeksAcademy bootcamp! </ul>
-<ul> 🌱 I’m currently on the path to becoming a full stack developer with 4GeeksAcademy! </ul>
 <ul> 👯 Lets collaborate :smile: </ul>
-<ul> 💬 Ask me about travel, gardening, music or anything really! </ul>
-<ul>⚡ Fun fact: i travelled from the North to the South of Vietnam! (and the North of Thailand)</ul>
 
 <h3> 📫 Reach me at 
 <a href="https://www.linkedin.com/in/dannyvaldivia/">
