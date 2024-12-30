@@ -41,3 +41,13 @@
 </span>
 
 </div>
+
+<div align="center">
+    
+# Projects
+
+## Expense Vue
+
+<img src="https://i.imgur.com/ogQcexn.gif" alt="GIF" width="250"/>
+
+</div>
