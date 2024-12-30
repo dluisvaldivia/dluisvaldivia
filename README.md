@@ -1,57 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=5500&pause=1000&color=3FB927&background=427AFF00&repeat=false&width=435&lines=Hello%2C+fellow+human...)](https://git.io/typing-svg)
-
-<h3> 📫 Reach me at 
-<a href="https://www.linkedin.com/in/dannyvaldivia/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/>
-</a>   
-or
-<a href="https://www.instagram.com/danny.valdivia">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/>
-</a>
-</h3>
----
-<h1 align="center">Skill Set</h1>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <span title="HTML">
-      <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML"/>
-    </span>
-    <span title="CSS">
-      <img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS"/>
-    </span>
-    <span title="Bootstrap">
-      <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="Bootstrap"/>
-    </span>
-    <br>
-    <span title="JavaScript">
-      <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript"/>
-    </span>
-    <span title="React">
-      <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React"/>
-    </span>
-    <br>
-    <span title="Python">
-      <img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"/>
-    </span>
-    <br>
-    <span title="Git">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git"/>
-    </span>
-    <span title="Postman">
-      <img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman"/>
-    </span>
-    <span title="Firebase">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase"/>
-    </span>
-    <span title="Adobe Illustrator">
-      <img src="https://skillicons.dev/icons?i=ai&theme=light" alt="Adobe Illustrator"/>
-    </span>
-    <span title="Jest">
-      <img src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest"/>
-    </span>
-    <span title="Red Hat">
-      <img src="https://skillicons.dev/icons?i=redhat&theme=light" alt="Red Hat"/>
-    </span>
-    <br>
-  </a>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=5500&pause=1000&color=3FB927&background=427AFF00&repeat=true&width=435&lines=Hello%2C+fellow+human...)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+# 👋 I'm Danny  
+🔧 Full Stack Developer | 🌐 Building solutions for the web | 🌍 Open to opportunities worldwide
+
+</div>
+
+<h1 align="center">Skill Set</h1>
+
+<div align="center">
+    
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF2D20?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<div align="center"> 
+    
+## 📫 Reach me at 
+<span>
+<a href="https://www.linkedin.com/in/dannyvaldivia/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/></a>
+<a href="https://www.instagram.com/danny.valdivia"><img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/></a>
+</span>
+
 </div>
