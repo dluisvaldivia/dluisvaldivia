@@ -41,3 +41,10 @@
 </span>
 
 </div>
+
+--- 
+# projects:
+
+## ExpenseVue
+
+<img src="https://i.imgur.com/nLfSaQI.gif" alt="GIF" width="150"/>
