@@ -32,23 +32,24 @@
 
 </div>
 
-<div align="center"> 
-    
-## 📫 Reach me at 
-<span>
-<a href="https://www.linkedin.com/in/dannyvaldivia/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/></a>
-<a href="https://www.instagram.com/danny.valdivia"><img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/></a>
-</span>
-
-</div>
-
 <div align="center">
     
 # Projects
 
-## Expense Vue
+### Expense Vue
 expense management application with integration to banking data.
 
 <img src="https://i.imgur.com/ogQcexn.gif" alt="GIF" width="250"/>
+
+</div>
+<div align="center"> 
+
+---
+
+### 📫 Reach me at 
+<span>
+<a href="https://www.linkedin.com/in/dannyvaldivia/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=4" alt="LinkedIn" width="30"/></a>
+<a href="https://www.instagram.com/danny.valdivia"><img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=4" alt="instagram" width="30"/></a>
+</span>
 
 </div>
