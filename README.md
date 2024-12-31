@@ -47,6 +47,7 @@
 # Projects
 
 ## Expense Vue
+expense management application with integration to banking data.
 
 <img src="https://i.imgur.com/ogQcexn.gif" alt="GIF" width="250"/>
 
