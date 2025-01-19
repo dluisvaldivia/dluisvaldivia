@@ -7,7 +7,7 @@
 <div align="center">
 
 # 👋 I'm Danny  
-🔧 Full Stack Developer | 🌐 Building solutions for the web | 🌍 Open to opportunities worldwide
+🔧 Full Stack Developer | 🌐 Accesibility focused web design
 
 </div>
 
