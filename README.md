@@ -46,17 +46,18 @@
 # Projects
 
 ### Expense Vue
-expense management application with integration to banking data.
+expense management application with integration to banking data.</br>
+[Visit ExpenseVue](https://sample-service-name-ikx9.onrender.com/)
 
 <img src="https://i.imgur.com/ogQcexn.gif" alt="GIF" width="250"/>
 
-### That's very ADHD
-personal branding website for an ADHD coach </br>
-[That's very ADHD](https://www.thatsveryadhd.com/)
 
+
+### That's very ADHD
+personal branding website for an ADHD coach. </br>
+[Visit That's very ADHD](https://www.thatsveryadhd.com/)
 
 <img src="https://i.imgur.com/lbNc7Ek.png" alt="GIF" width="250"/>
-
 
 ---
 
